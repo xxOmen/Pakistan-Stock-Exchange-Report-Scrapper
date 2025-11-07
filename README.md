@@ -2,6 +2,10 @@
 
 This is a Python-based web scraper designed to collect daily stock reports from the Pakistan Stock Exchange (PSX) and process the data into a structured format for further analysis. The script uses libraries such as `requests`, `BeautifulSoup`, and `pandas` to extract and organize information such as stock prices, volumes, and other relevant details from the PSX website.
 
+## Snapshots
+<img width="878" height="479" alt="Output" src="assets/Screenshot 2025-11-07 161935.png"/>
+<img width="878" height="479" alt="Code" src="assets/Screenshot 2025-11-07 161919.png" />
+
 ## Features:
 - Scrapes stock data from the official PSX website.
 - Extracts relevant financial data, including stock symbols, open/close prices, volumes, and more.
